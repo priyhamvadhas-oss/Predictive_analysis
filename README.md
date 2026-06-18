@@ -1,4 +1,6 @@
 📈 Sales Prediction Dashboard
+
+
 🚀 Project Overview
 
 The Sales Prediction Dashboard is developed using Power BI to analyze historical sales data and forecast future sales trends. It helps businesses track performance, identify growth opportunities, and make data-driven decisions.
